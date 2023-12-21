@@ -3,7 +3,7 @@ I love code!!!
 - 👋 Hi, I’m Sergei
 - 🏠 I'm based in Moscow
 - 📩 You can contact me at sergeydiachenkos95@gmail.com
-- 🌱 I’m currently learning React Native, MobX
+- 🧠 I’m currently learning React Native, MobX
 - 🤝 I’m open to collaboerating
 - 🐹 I have a cat named Thomas
   
